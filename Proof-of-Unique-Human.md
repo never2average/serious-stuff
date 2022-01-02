@@ -6,3 +6,5 @@ deadline: 1/3/2022
 description: ""
 objective: "Proof-of-Unique-Human consensus mechanism"
 ---
+
+**Next Objective: [[Proof-of-Alignment]]**

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb72abf422c9e42a",
+        "id": "bc4ec242124c0c19",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Proof-of-Human.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof-of-Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb72abf422c9e42a",
+  "active": "bc4ec242124c0c19",
   "lastOpenFiles": [
+    "Proof-of-Alignment.md",
+    "Proof-of-Unique-Human.md",
     "Proof-of-Human.md",
-    "Proof-of-Unique-Human.md"
+    "Investment-Stack.md",
+    "Insurance-Stack.md",
+    "Debt-Stack.md",
+    "Spending-Stack.md",
+    "Citizen-Platform.md",
+    "Treasury.md",
+    "Decentralized-Tech-Tree.md"
   ]
 }
