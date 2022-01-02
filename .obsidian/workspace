@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4adf0dc5d055e972",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb72abf422c9e42a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Proof-of-Human.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "715039b9cc57501e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4669e8c02e401c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4994966bca425e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdd54a69a7e54d93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4e90a7bb6054fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f220e96796595f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae32e4834700cd09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proof-of-Human.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "912fed7bc0b94f11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb72abf422c9e42a",
+  "lastOpenFiles": [
+    "Proof-of-Human.md",
+    "Proof-of-Unique-Human.md"
+  ]
+}
